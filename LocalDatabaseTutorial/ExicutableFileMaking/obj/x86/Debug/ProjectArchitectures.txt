@@ -1,0 +1,2 @@
+C:\Users\1002205\source\repos\LocalDatabaseTutorial\ExicutableFileMaking\ExicutableFileMaking.wapproj;x86
+C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\LocalDatabaseTutorial.UWP.csproj;x86
