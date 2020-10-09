@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LocalDatabaseTutorial.MainPage">
+
+   
+    <!--<StackLayout Margin="20,35,20,20">
+        <Entry x:Name="nameEntry"
+               Placeholder="Enter name" />
+        <Entry x:Name="ageEntry"
+               Placeholder="Enter age" />
+        <Button Text="Add to Database"
+                Clicked="OnButtonClicked" />
+        <ListView x:Name="listView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}"
+                              Detail="{Binding Age}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>-->
+    <StackLayout>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Image x:Name="imgBanner" Source="banner.png" ></Image>
+                <Image Margin="0,0,0,10" HeightRequest="100" Source="SQLite.png" ></Image>
+                <Label Margin="0,0,0,10" Text="SQLite" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Entry x:Name="txtPersonId" Placeholder="PersonId Update and Delete"></Entry>
+                <Entry x:Name="nameEntry" Placeholder="Enter Person Name"></Entry>
+                <Entry x:Name="ageEntry"  Placeholder="Enter age" />
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnAdd" WidthRequest="200" Text="Add" Clicked="OnButtonClicked" />
+                    <Button x:Name="btnUpdate" WidthRequest="200" Text="Update" />
+                </StackLayout>
+                
+                <!--<ListView x:Name="listView">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Name}"
+                              Detail="{Binding Age}" />
+                        </DataTemplate>
+                       
+                    </ListView.ItemTemplate>
+                </ListView>-->
+                <ListView x:Name="listView">
+                    <ListView.ItemTemplate>
+                    <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                                    <Label Text="{Binding ID}" />
+                                    <Label Text="{Binding Name}" />
+                                    <Label Text="{Binding Age}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+              
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

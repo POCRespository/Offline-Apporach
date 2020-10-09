@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\1002205\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\in\\"
+/ref:"C:\Users\1002205\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\in"
+/ref:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\1002205\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\intermediate\LocalDatabaseTutorial.UWP.Sg"
+"@C:\Users\1002205\source\repos\LocalDatabaseTutorial\LocalDatabaseTutorial\LocalDatabaseTutorial.UWP\obj\x64\Release\ilc\intermediate\LocalDatabaseTutorial.UWP.Sg\ComputedSerializationInput.txt"
