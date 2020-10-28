@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525157274830",
+    "firebase_url": "https://xamarinfcm-c1bcb.firebaseio.com",
+    "project_id": "xamarinfcm-c1bcb",
+    "storage_bucket": "xamarinfcm-c1bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525157274830:android:e10f9bfed7b57d92afec9f",
+        "android_client_info": {
+          "package_name": "com.companyname.localdatabasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525157274830-bnh2egdnurij2m00lthke7c8khkje1vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dbBNisYtJ2BT28BJTetU7KcVnHmy0JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525157274830-bnh2egdnurij2m00lthke7c8khkje1vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

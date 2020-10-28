@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj": {}
+    "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj": {}
   },
   "projects": {
-    "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj": {
+    "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj",
+        "projectUniqueName": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj",
         "projectName": "LocalDatabaseTutorial.UWP",
-        "projectPath": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\obj\\",
+        "projectPath": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\LocalDatabaseTutorial.UWP.csproj",
+        "packagesPath": "C:\\Users\\1000287\\.nuget\\packages\\",
+        "outputPath": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1000287\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -28,13 +28,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj": {
-                "projectPath": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj"
+              "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj": {
+                "projectPath": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj"
               }
             }
           }
@@ -91,20 +92,20 @@
         }
       }
     },
-    "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj": {
+    "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj",
+        "projectUniqueName": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj",
         "projectName": "LocalDatabaseTutorial",
-        "projectPath": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\obj\\",
+        "projectPath": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial.csproj",
+        "packagesPath": "C:\\Users\\1000287\\.nuget\\packages\\",
+        "outputPath": "D:\\Websites\\Offline-Apporach\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\LocalDatabaseTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1000287\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -113,7 +114,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -162,7 +164,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
